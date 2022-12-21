@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\HW8C#\HW8C-\HOMEWORK\bin\Debug\net6.0\HOMEWORK.exe
+C:\Users\PC\Desktop\HW8C#\HW8C-\HOMEWORK\bin\Debug\net6.0\HOMEWORK.deps.json
+C:\Users\PC\Desktop\HW8C#\HW8C-\HOMEWORK\bin\Debug\net6.0\HOMEWORK.runtimeconfig.json
+C:\Users\PC\Desktop\HW8C#\HW8C-\HOMEWORK\bin\Debug\net6.0\HOMEWORK.dll
+C:\Users\PC\Desktop\HW8C#\HW8C-\HOMEWORK\bin\Debug\net6.0\HOMEWORK.pdb
+C:\Users\PC\Desktop\HW8C#\HW8C-\HOMEWORK\obj\Debug\net6.0\HOMEWORK.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\HW8C#\HW8C-\HOMEWORK\obj\Debug\net6.0\HOMEWORK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\HW8C#\HW8C-\HOMEWORK\obj\Debug\net6.0\HOMEWORK.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\HW8C#\HW8C-\HOMEWORK\obj\Debug\net6.0\HOMEWORK.AssemblyInfo.cs
+C:\Users\PC\Desktop\HW8C#\HW8C-\HOMEWORK\obj\Debug\net6.0\HOMEWORK.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\HW8C#\HW8C-\HOMEWORK\obj\Debug\net6.0\HOMEWORK.dll
+C:\Users\PC\Desktop\HW8C#\HW8C-\HOMEWORK\obj\Debug\net6.0\refint\HOMEWORK.dll
+C:\Users\PC\Desktop\HW8C#\HW8C-\HOMEWORK\obj\Debug\net6.0\HOMEWORK.pdb
+C:\Users\PC\Desktop\HW8C#\HW8C-\HOMEWORK\obj\Debug\net6.0\HOMEWORK.genruntimeconfig.cache
+C:\Users\PC\Desktop\HW8C#\HW8C-\HOMEWORK\obj\Debug\net6.0\ref\HOMEWORK.dll
